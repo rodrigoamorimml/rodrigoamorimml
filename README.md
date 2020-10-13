@@ -4,7 +4,7 @@
 
 
 - 👯 I’m an Electrical Engineer graduate at Universidade Federal da Paraiba (UFPB) with specialization in Eletronics.
-- 🌱 I’m currently learning Machine/Deep Learning models, in special the field of  Natural Language Processing (NLP) and Computer Vision (CV) using python. 
+- 🌱 I’m currently learning Data Science and Machine/Deep Learning models, in special the field of  Natural Language Processing (NLP) and Computer Vision (CV) using python. 
 - 🔭 I’m currently looking for opportunities.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rodrigoamorimml)
